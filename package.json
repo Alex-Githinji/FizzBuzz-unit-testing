@@ -1,0 +1,16 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type":"commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Alex Githinji",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
